@@ -1,0 +1,1 @@
+The repository will store downloaded CSV files which will later adjust object annotations from CSV files to YOLO-supported format.  
